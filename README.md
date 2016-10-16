@@ -1,8 +1,9 @@
 Jucardi Duplicates Finder
 =========================
 
-Simple desktop application built in .NET using Windows Forms
+> Copyright 2013
 
+Simple desktop application built in .NET using Windows Forms
 
 #### How it works
 
