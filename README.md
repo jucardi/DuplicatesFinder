@@ -3,6 +3,8 @@ Jucardi Duplicates Finder
 
 > Copyright 2013
 
+
+
 Simple desktop application built in .NET using Windows Forms
 
 #### How it works
