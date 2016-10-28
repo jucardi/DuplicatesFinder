@@ -7,6 +7,9 @@ Jucardi Duplicates Finder
 
 Simple desktop application built in .NET using Windows Forms
 
+###Releases 
+[V1.0.0.0](https://github.com/jucardi/DuplicatesFinder/raw/master/releases/Jucardi.DuplicatesFinder.V.1.0.0.0.zip)
+
 #### How it works
 
 The process is done in two steps
